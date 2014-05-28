@@ -1,0 +1,7 @@
+C:\Users\Jonatan\Documents\UTE\5A TICS\Ingeniera de Software II TIC-SI 5A\Proyecto\PvCafeteriaUTE\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\Jonatan\Documents\UTE\5A TICS\Ingeniera de Software II TIC-SI 5A\Proyecto\PvCafeteriaUTE\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\Jonatan\Documents\UTE\5A TICS\Ingeniera de Software II TIC-SI 5A\Proyecto\PvCafeteriaUTE\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\Jonatan\Documents\UTE\5A TICS\Ingeniera de Software II TIC-SI 5A\Proyecto\PvCafeteriaUTE\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\Jonatan\Documents\UTE\5A TICS\Ingeniera de Software II TIC-SI 5A\Proyecto\PvCafeteriaUTE\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\Jonatan\Documents\UTE\5A TICS\Ingeniera de Software II TIC-SI 5A\Proyecto\PvCafeteriaUTE\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\Jonatan\Documents\UTE\5A TICS\Ingeniera de Software II TIC-SI 5A\Proyecto\PvCafeteriaUTE\CapaNegocios\obj\Debug\CapaNegocios.csprojResolveAssemblyReference.cache

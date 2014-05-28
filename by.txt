@@ -1,0 +1,5 @@
+Jonatan Pérez: programador y diseñador del proyecto
+Gabriela Nataly: Base de datos
+Christian Cantú: Testing y documentación 
+
+
